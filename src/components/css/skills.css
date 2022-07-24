@@ -1,0 +1,16 @@
+.card_skill{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display:inline-flex;
+    width: 200px;
+    height: 60px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 9px;
+    background-color: rgb(235, 242, 248);
+}
+.container-skill{
+    min-height: 100vh;
+    margin: 90px;
+    text-align: center;
+    display: inline-flex;
+}

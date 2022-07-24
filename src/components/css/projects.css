@@ -1,0 +1,26 @@
+.card{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    display: inline-block;
+    width: 370px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 9px;
+    background-color: rgb(235, 242, 248);
+}
+.skilldisplay{
+    display: inline-flex;
+}
+
+.skills{
+    margin-left: 1em;
+    
+}
+.gitlink{
+margin-top: 1em;
+    }
+
+.container{
+    margin-bottom: 100px;
+    
+}

@@ -1,0 +1,45 @@
+.navbar {
+    background-color: #3018b9;
+    color: black;
+    align-items: center;
+    margin-bottom: 100px;;
+  }
+  .container-fluid {
+    align-items: center;
+  }
+  .navbar-nav {
+    list-style: none;
+  }
+  .nav-item {
+    height: 30px;
+    padding-top: 5px;
+    padding-right: 25px;
+    position: relative;
+    align-items: center;
+    color: aliceblue;
+    display: inline-block;
+  }
+  .nav-link {
+    color: aliceblue;
+  }
+  .nav-item a:hover {
+    
+  color:aqua;
+    
+  }
+  .footer{
+    background-color: #3018b9;
+    color: aliceblue;
+    width: 100%;
+    /* height: 40px; */
+    text-align: center;
+    position: absolute;
+    bottom: 0px;
+  
+  }
+  .info{
+   
+    position: relative;
+    align-self: center;
+  
+  }
