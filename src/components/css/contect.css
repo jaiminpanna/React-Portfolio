@@ -1,0 +1,20 @@
+.form{
+    background-color: rgb(248, 247, 244);
+    opacity: 80%;
+    padding: 20px;
+    width: 300px;
+    display: inline-flex;
+    border-radius: 8px;
+  
+}
+
+.heading-contact{
+    margin-top: 3px;
+    margin-bottom: 40px;
+}
+.heading2{
+    margin-top: 20px;
+}
+.heading3{
+    margin:10px;
+}
